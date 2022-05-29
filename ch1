@@ -1,0 +1,11 @@
+1.)
+TODO.
+
+2.)
+TODO.
+
+3.)
+Say 'cols' is the number of columns of the table.
+and 'rows' is the number of columns of the table.
+I would create an array of size cols * rows.
+Then to access an element of index (i, j), I would access array element (i*cols) + j.
